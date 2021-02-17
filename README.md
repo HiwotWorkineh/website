@@ -11,5 +11,5 @@ this is the website with the title "hiwot dental clinic" which is created with t
 
 this is my gihub repository.
 
-https://github.com/HiwotWorkineh/Hiwotrepository.git
+https://github.com/HiwotWorkineh/website.git
 
